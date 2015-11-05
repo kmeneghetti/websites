@@ -1,0 +1,62 @@
+body {
+	background-color: #292929;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #ffffff;
+}
+
+p#title {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #ffffff;
+	font-size: 70;
+}
+
+p#desc {
+	width: 820px;
+	line-height: 1.5;
+	font-size: 20;
+	top: -50px;
+	position: relative;
+	z-index: 20;
+}
+
+p#less {
+	position: relative;
+	left: 155px;
+	top: -250;
+}
+
+p#more {
+	position: relative;
+	left: 155px;
+	top: -230;
+}
+
+#green {
+	left: 120px;
+	top: -240;
+	position: relative;
+
+
+}
+
+p#younger {
+	position: relative;
+	left: 165px;
+	top: -260px;
+}
+
+p#older {
+	position: relative;
+	left: 175px;
+	top: -240;
+}
+
+#pink {
+	left: 120px;
+	top: -250px;
+	position: relative;
+}
+
+p {
+	line-height: 1.3;
+}
